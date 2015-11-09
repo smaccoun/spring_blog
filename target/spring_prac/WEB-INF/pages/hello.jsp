@@ -8,6 +8,7 @@
             <td><a href="cs">Computer Science</a></td>
         </tr>
     </table>
+    <h2>About Me</h2>
 	<p>${message}</p>
 </body>
 </html>
