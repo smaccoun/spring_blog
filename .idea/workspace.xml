@@ -5,7 +5,7 @@
     <ignored path="spring_prac.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/hello.jsp" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447022695100" ignored="false" />
-    <file path="/pom.xml" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447030319504" ignored="false" />
+    <file path="/pom.xml" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447040647928" ignored="false" />
     <file path="/AppTests.java" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447034607896" ignored="false" />
     <file path="/fragment.java" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447035269326" ignored="false" />
     <file path="/Dummy.txt" changelist="35380c82-0f7c-445f-994f-9549895ff2c1" time="1447035269326" ignored="false" />
@@ -99,7 +99,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="53" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.40265486">
+            <state line="57" column="26" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.6603774">
               <folding />
             </state>
           </provider>
@@ -686,32 +686,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="39" selection-start="432" selection-end="448" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="131" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -732,9 +709,32 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="297" selection-end="297" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/AppTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="131" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="53" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.40265486">
+        <state line="57" column="26" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.6603774">
           <folding />
         </state>
       </provider>
